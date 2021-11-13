@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zinetics
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning node
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on MERN project
 - 📫 Contact me - zinetics@gmail.com
 
 <!---
